@@ -1,0 +1,5 @@
+Type,X,Y
+Reference1,341,199
+Reference2,477,336
+Reference3,373,675
+Reference4,14,596
